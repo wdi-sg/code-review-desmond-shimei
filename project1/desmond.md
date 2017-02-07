@@ -8,33 +8,33 @@
 
 #### Project Purpose
 
-Create a two-player game with scores and winning functions. Desmond created a quiz to test players on their knowledge of Singapore.
+Desmond created a two-player quiz to test players on their knowledge of Singapore. Each player gets to answer 5 random questions. The player with highest point wins.
 
 #### Project Organization
 
 #### Features
 
-* Variables
-  * Created list of questions using variables
-* Feature 2
-  * Explanation on how it's implemented
-* Feature 3
-  * Explanation on how it's implemented
+* Points system
+  * Points are given to each player upon correct answers.  
+* Buttons
+  * Players select their answers with true and false buttons. If answer is correct, points will be added for the corresponding player. Replay button allows players to play the game again with another randomly generated set of questions.
 
-#### Areas of Job-well-done (Code, Organization)
+#### Areas of Job-well-done
 
 * Organization
-  * Very very neat and well organized codes. Very easy to read and understand. 
-* Attribute 2
-  * Explanation on why you found it successful or elegant
+  * Very neat and well organized codes.
+* Code
+  * Given names are clear, easy to read and to understand.
+* Constructor Object
+  * Suitable use of constructor objects. Looks like the objects helped keep codes organized!
 
-#### Areas of erm.. (Code, Organization)
+#### Areas for Improvement
 
-* Attribute 1
-  * Explanation on how it could be improved
-* Attribute 2
-  * Explanation on how it could be improved
+* Unused marking
+  * line 51: is that an unused '}'?
+* Suggestion
+  * How about adding a little note at the end of each answers to provide related information? Can also consider displaying a big and obvious word saying "CORRECT" or "WRONG".
 
 ## Additional Notes
 
-_Place any additional notes here_
+Congratulations on completing project 1!
