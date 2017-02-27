@@ -1,36 +1,33 @@
-# Code Review for Brian Hague
+# Code Review for Shi Mei
 
 ## Project Repo
 
-https://github.com/wshimei/wdi-project-1-wshimei
+https://github.com/wdi-sg/wdi-project-2-wshimei
 
 ## Review
 
 #### Project Purpose
 
-The purpose of the project is to create a game to help the farmer get rid of the crop destroying moles! Whack the mole by hitting on the corresponding letters on your keyboard!
+The purpose of the project is to create a shopping list designed for groups such as family, room-mates, close neighbours, etc.
 
 #### Project Organization
 
 #### Features
 
-* Hit the letter displayed with the mole
-  * A user has an input letter to type whenever a mole pops out. The mole comes out for a limited time with a letter and if you hit it within the interval, you will be able to score a point.
-  * The logic was implemented by create a function with the use of 'keypress'. The usage of the setTimeOut allows the game to be kept within a specified time!
+* Allows for a group of members (e.g. family) to be able to share a common list.
+* Add Button (+) to enter items into the shopping list.
+* Different kind of categories for easy identification during shopping
+* Convenient check-box function to check once item is purchased.
 
 #### Areas of Success (Code, Creativity)
 
-* Variables are named very well
-  * All variables are defined at the start and is simple to read and understand!
-* Creativity in the game
-  * The standard whack-a-mole game was to use the mouse but you were able to think creatively to tweak the game whereby you use letters instead!
+* Structures are done up well. (Controllers, Models, Routes)
+* Initial workflow is clear and gives directions for the project
 
 #### Areas for Improvement (Code, Organization)
 
-* Declaring variables
-  * Instead of declaring global variable, maybe you could declare variables in the function to prevent pollution.
-
+* Can add on image upload function
 
 ## Additional Notes
 
-Good job! :)
+Overall, very simple-to-use and intuitive application. Could become an mobile + web app that would be used very frequently by groups. Good job!! :)
